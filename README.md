@@ -2,7 +2,8 @@
 
 
 ## Block Diagram
-![Uploading image.png…]()
+<img width="600" height="566" alt="image" src="https://github.com/user-attachments/assets/17465c48-b089-49ab-a303-cc8f7225b245" />
+
 
 
 > ## Hierarchical Design
